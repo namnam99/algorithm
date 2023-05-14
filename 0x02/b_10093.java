@@ -29,7 +29,7 @@ public class b_10093 {
 //        }
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder sb = new StringBuilder();
-        StringTokenizer st = new StringTokenizer(br.readLine());;
+        StringTokenizer st = new StringTokenizer(br.readLine());
 
         long a = Long.parseLong(st.nextToken());
         long b = Long.parseLong(st.nextToken());
